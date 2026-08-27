@@ -47,7 +47,7 @@ java Main
 
 > **Requires:** Java 8 or higher. No external libraries needed.
 
----
+----
 
 ## Pre-loaded Sample Data (for testing / viva)
 
