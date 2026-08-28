@@ -49,7 +49,7 @@ java Main
 
 ----
 
-## Pre-loaded Sample Data (for testing / viva)
+## Pre-loaded Sample Data(for testing / viva)
 
 | Type    | Data                                     |
 |---------|------------------------------------------|
