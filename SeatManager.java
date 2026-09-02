@@ -43,7 +43,7 @@ public class SeatManager {
         if (seats == null) {
             System.out.println("  Bus not found in seat records.");
             return;
-        }
+        } 
         System.out.println("\n  === Seat Matrix: Bus " + busNumber + " ===");
         System.out.println("  [O = Available]  [X = Occupied]");
         System.out.println();
