@@ -5,7 +5,6 @@ public class SeatManager {
 
     // Maps busNumber -> boolean array (index 1..capacity); true = occupied
     private Map<String, boolean[]> seatMap;
-
     public SeatManager() {
         seatMap = new HashMap<>();
     }
